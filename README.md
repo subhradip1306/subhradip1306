@@ -1,3 +1,3 @@
-# 0.7 CGPA individual
+# chronic coke consumer
 
 
