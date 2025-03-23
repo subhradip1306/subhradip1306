@@ -1,3 +1,3 @@
-# chronic coke consumer
+### Learning and building in Python and C
 
 
