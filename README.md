@@ -1,3 +1,2 @@
-### Learning and building in Python and C
-
+### Python and C
 
